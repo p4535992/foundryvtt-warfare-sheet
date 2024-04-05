@@ -1,37 +1,40 @@
 {
-	"id": "warfare",
-	"name": "warfare",
-	"title": "Warfare",
-	"description": "An implementation of MCDM's warfare rules.",
-	"authors": [{"name": "Kim Mantas"}],
-	"version": "1.2.1",
-	"minimumCoreVersion": "10",
-	"compatibleCoreVersion": "11",
-	"compatibility": {
-		"minimum": 10,
-		"verified": 11
-	},
-	"system": ["dnd5e"],
-	"relationships": {
-		"systems": [{
-			"id": "dnd5e",
-			"type": "system",
-			"compatibility": {
-				"minimum": "1.6.3",
-				"verified": "2.2.1"
-			}
-		}]
-	},
-	"esmodules": ["module/main.js"],
-	"styles": ["styles/light.css", "styles/warfare.css"],
-	"url": "https://bitbucket.org/Fyorl/warfare",
-	"manifest": "https://bitbucket.org/Fyorl/warfare/raw/master/module.json",
-	"download": "https://bitbucket.org/Fyorl/warfare/get/1.2.1.zip",
-	"bugs": "https://bitbucket.org/Fyorl/warfare/issues",
-	"license": "LICENSE",
-	"languages": [{
-		"lang": "en",
-		"name": "English",
-		"path": "lang/en.json"
-	}]
+    "id": "warfare",
+    "title": "Warfare",
+    "description": "An implementation of MCDM's warfare rules.",
+    "version": "1.2.1",
+    "authors": [{ "name": "Kim Mantas" }],
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "11",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 11
+    },
+    "system": ["dnd5e"],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "1.6.3",
+                    "verified": "2.2.1"
+                }
+            }
+        ]
+    },
+    "esmodules": ["module/main.js"],
+    "styles": ["styles/light.css", "styles/warfare.css"],
+    "url": "https://bitbucket.org/Fyorl/warfare",
+    "manifest": "https://bitbucket.org/Fyorl/warfare/raw/master/module.json",
+    "download": "https://bitbucket.org/Fyorl/warfare/get/1.2.1.zip",
+    "bugs": "https://bitbucket.org/Fyorl/warfare/issues",
+    "license": "LICENSE",
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ]
 }

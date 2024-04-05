@@ -1,12 +1,14 @@
 # Warfare
 
+## A fork of the project https://bitbucket.org/Fyorl/easy-target/src/master/
+
 A [FoundryVTT](https://foundryvtt.com/) module that provides an implementation of MCDM's warfare system as seen in [Strongholds & Followers](https://shop.mcdmproductions.com/collections/strongholds-followers). The module adds a special sheet for NPC Actors that designates them as a unit and allows you to input any units created with the warfare system.
 
 This project is not affiliated with MCDM and is in no way endorsed by them.
 
-![Unit Card Light](https://bitbucket.org/Fyorl/warfare/raw/master/unit-card-light.jpg)
+![Unit Card Light](/wiki/images/unit-card-light.jpg)
 
-![Unit Card Dark](https://bitbucket.org/Fyorl/warfare/raw/master/unit-card-dark.jpg)
+![Unit Card Dark](/wiki/images/unit-card-dark.jpg)
 
 ## License
 
