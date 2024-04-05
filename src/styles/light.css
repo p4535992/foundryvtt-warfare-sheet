@@ -1,0 +1,14 @@
+:root {
+	--war-base: #902626;
+	--war-border: #902626;
+	--war-bg: #e8e8e8;
+	--war-highlight: #ba2828;
+	--war-config-colour: #666;
+	--war-underscore: black;
+	--war-box-shadow: inset 0 0 15px 5px rgba(0, 0, 0, .4);
+	--war-edit: #191813;
+	--war-alert: #c53131;
+	--war-text: #902626;
+	--war-header: #ba2828;
+	--war-pip: #ba2828;
+}
